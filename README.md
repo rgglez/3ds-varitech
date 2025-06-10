@@ -1,6 +1,6 @@
 # 3ds-varitech
 
-3D Studio animation of a Varitech-like robot. Project for my faculty's graphics course.
+3D Studio animation of a [Varitech](https://es.wikipedia.org/wiki/VF-1_Valkyrie)-like robot. Project for my faculty's graphics course. Given the limited resources (it was done on a 486DX2 and a 466DX+VESA graphic card) and time, I'm proud of it :)
 
 You can view the animation [here](VARITECH.FLC).
 
