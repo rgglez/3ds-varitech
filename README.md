@@ -6,7 +6,7 @@
 
 You can view the animation [here](animation.mp4).
 
-# License
+## License
 
 Copyright 1997 Rodolfo González González.
 
