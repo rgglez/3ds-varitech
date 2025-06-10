@@ -2,7 +2,7 @@
 
 [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
-3D Studio animation of a [Varitech](https://es.wikipedia.org/wiki/VF-1_Valkyrie)-like robot. Project for my faculty's graphics course. Given the limited resources (it was done on a 486DX2 and a 466DX+VESA graphic card) and time, I'm proud of it :)
+3D Studio animation of a [Varitech](https://es.wikipedia.org/wiki/VF-1_Valkyrie)-like robot. Project for my faculty's graphics course. Given the limited resources (it was done on a 486DX2 and a 486DX plus an early VESA graphic card) and time to do it, I'm proud of it :)
 
 You can view the animation [here](animation.mp4).
 
